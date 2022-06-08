@@ -1,13 +1,13 @@
 <?php
 
 $nome = $_POST['name'];
-$genero = $_POST['genero'];
-$estado = $_POST['estado'];
-$qtdIrmaos = $_POST['irmao'];
-foreach ($qtdIrmaos as $val) {
+$data_nascimento = $_POST['data'];
+$email = $_POST['email'];
+$senha = $_POST['senha'];
+foreach ($ as $val) {
     $msg .= $val . ", ";
 }
 
-echo "O nome é $nome, o gênero é $genero, o estado é $estado e são $msg irmãos.";
+echo "Confira os dados inseridos: Nome: $nome, Data de nascimento: $data, E-mail $email Senha: $senha.";
 
 ?>
