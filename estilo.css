@@ -67,7 +67,7 @@ body {
 }
 #en {
 	position: relative;
-	background-color: #ff914d;
+	background-color: #313131;
 	border: 0px;
 	border-radius: 20px;
 	cursor: pointer;
@@ -95,7 +95,7 @@ div {
 }
 footer {
 	position: relative;
-	background: #ff914d;
+	background: #313131;
 	max-width: 480px;
 	height: 80px;
 	top: 38px;
