@@ -42,12 +42,12 @@ table {
 }
 /*começo do código para a página*/
 body {
-	background-color: #ffede2;
+	background-color: lightgrey;
 }
 #ma {
 	max-width: 480px;
 	height: 60px;
-	background: #ff914d;
+	background: #313131;
 }
 #lo {
 	position: relative;
