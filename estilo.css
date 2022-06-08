@@ -42,7 +42,7 @@ table {
 }
 /*começo do código para a página*/
 body {
-	background-color: lightgrey;
+	background-color: rgb(34, 32, 32);
 }
 #ma {
 	max-width: 480px;
